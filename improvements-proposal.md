@@ -1,4 +1,4 @@
-# Hatchways Frontend Work Simulation
+# Improvements
 
 ## Question:
 ```
